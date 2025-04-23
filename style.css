@@ -1,6 +1,21 @@
-body{
-  background-color: Black;
-}
-nav{
-  color: blue;
-}
+header{
+            background-color: cadetblue;
+            
+
+        }
+        nav{
+            background-color: blueviolet;
+        
+        }
+        section{
+            background-color: aqua;
+        }
+        article{
+            background-color: cornflowerblue;
+        }
+        footer{
+            background-color: darkgreen;
+        }
+        aside{
+            background-color: darkblue;
+        }
