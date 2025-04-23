@@ -1,21 +1,19 @@
 header{
             background-color: cadetblue;
-            
-
-        }
-        nav{
+}
+nav{
             background-color: blueviolet;
         
-        }
-        section{
+}
+section{
             background-color: aqua;
-        }
-        article{
+}
+article{
             background-color: cornflowerblue;
-        }
-        footer{
+}
+footer{
             background-color: darkgreen;
-        }
-        aside{
+}
+aside{
             background-color: darkblue;
-        }
+}
